@@ -62,3 +62,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Data and local datasets
+dataset/
